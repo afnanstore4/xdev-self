@@ -157,7 +157,7 @@ module.exports = xdev = async (xdev, dev) => {
 		mess = {
 			wait: '_Tunggu sebentar ya kak_',
 			admin: '_Kusus admin_',
-			owner: '_Kusus owner_',
+			owner: '_081318359115',
 			success: 'Berhasil!',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
